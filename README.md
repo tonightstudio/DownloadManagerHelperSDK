@@ -1,9 +1,6 @@
 # DownloadManagerHelperSDK
 DownloadManager帮助类自动下载url对应的apk并安装，兼容android 6.0、android 8.0
 
-# WorkbookHelperSDK
-解析excel文档工具类
-
 引用方法：
 
     repositories {
