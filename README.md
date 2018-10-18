@@ -10,7 +10,7 @@ DownloadManager帮助类自动下载url对应的apk并安装，兼容android 6.0
         }
     }
     dependencies {
-        compile 'com.github.tonightstudio:downloadmanagerhelper:1.0'
+        implementation 'com.github.tonightstudio:downloadmanagerhelper:1.0'
     }
 
 使用方法：
